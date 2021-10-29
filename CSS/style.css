@@ -3,7 +3,7 @@
   --main-color: #10cab7;
   --secondry-color:#2c4755;
   --margin-sections:60px;
-  --section-background:#f6f6f6
+  --section-background:#f6f6f6;
   
 }
 /*End varaibles*/
@@ -386,4 +386,4 @@ i{
     color: var(--main-color);
   }
   /* End Footer */
-  
+  /*  this is latest updates*/
